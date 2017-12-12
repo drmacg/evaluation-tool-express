@@ -1,0 +1,8 @@
+{
+  "name": "evaluation-tool-express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:gbosnjak/evaluation-tool-express.git",
+  "author": "gbosnjak <bosnjak.gabrijela@gmail.com>",
+  "license": "MIT"
+}
