@@ -25,6 +25,17 @@ app.get('/batches', (req, res, next) => {
     .catch((error) => next(error))
 })
 
+app.post('/batches',
+    passport.authorize('jwt', { session: false }),
+    (req, res, next) => {
+      let newBatch = req.body
+      //newBatch.authorId = req.account._id
+
+      Batch.create(newBatch)
+        .then((batch) => res.json(batch))
+        .catch((error) => next(error))
+    })
+
 app.use(users)
 app.use(sessions)
 
