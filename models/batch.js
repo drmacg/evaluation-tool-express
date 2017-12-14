@@ -7,4 +7,4 @@ const batchSchema = new Schema({
   endDate: { type: Date, required: true }
 })
 
-module.exports = mongoose.model('evaluation-tool', batchSchema)
+module.exports = mongoose.model('batches', batchSchema)
