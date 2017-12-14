@@ -5,12 +5,14 @@ const passport = require('./config/auth')
 const bodyParser = require('body-parser')
 const users = require('./routes/users')
 const sessions = require('./routes/sessions')
+const cors = require('cors')
 
 const PORT = process.env.PORT || 3030
 
 let app = express()
 
 app
+  .use(cors())
   .use(bodyParser.urlencoded({ extended: true }))
   .use(bodyParser.json())
   .use(passport.initialize())
