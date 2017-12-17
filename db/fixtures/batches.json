@@ -5,8 +5,8 @@
     "endDate": "2017-02-28",
     "students": [
       {
-        "fullName": "Student1",
-        "imageUrl": "https://i.pinimg.com/originals/ce/07/48/ce0748db2eb7b4fea6f5130600e9bda6.jpg",
+        "fullName": "Ivan Ivanovic",
+        "imageUrl": "https://files.brightside.me/files/news/part_8/84905/200705-koala-bear-sleeping-wallpaper-1-650-b588412079-1484640318.jpg",
         "evaluations": [
           {
             "colorCode": "green",
@@ -15,8 +15,8 @@
         ]
       },
       {
-        "fullName": "Student2",
-        "imageUrl": "https://i.pinimg.com/originals/ce/07/48/ce0748db2eb7b4fea6f5130600e9bda6.jpg",
+        "fullName": "Marko Markovic",
+        "imageUrl": "https://goto-assets-phx-production.s3-us-west-2.amazonaws.com/store/cca2ad0076be8863b6df21f601f19444.jpg",
         "evaluations": [
           {
             "colorCode": "yellow",
@@ -25,8 +25,8 @@
         ]
       },
       {
-        "fullName": "Student3",
-        "imageUrl": "https://i.pinimg.com/originals/ce/07/48/ce0748db2eb7b4fea6f5130600e9bda6.jpg",
+        "fullName": "Petar Petrovic",
+        "imageUrl": "https://www.oddee.com/wp-content/uploads/_media/imgs/articles2/a96852_a4.jpg",
         "evaluations": [
           {
             "colorCode": "red",
@@ -35,8 +35,8 @@
         ]
       },
       {
-        "fullName": "Student4",
-        "imageUrl": "https://i.pinimg.com/originals/ce/07/48/ce0748db2eb7b4fea6f5130600e9bda6.jpg",
+        "fullName": "Ana Anic",
+        "imageUrl": "https://i.pinimg.com/originals/9e/f0/26/9ef02691f80c7092eb48690c457c3880.jpg",
         "evaluations": [
           {
             "colorCode": "green",
@@ -45,8 +45,8 @@
         ]
       },
       {
-        "fullName": "Student5",
-        "imageUrl": "https://i.pinimg.com/originals/ce/07/48/ce0748db2eb7b4fea6f5130600e9bda6.jpg",
+        "fullName": "Iva Ivic",
+        "imageUrl": "https://news.nationalgeographic.com/content/dam/news/photos/000/787/78799.ngsversion.1422285735584.adapt.1900.1.jpg",
         "evaluations": [
           {
             "colorCode": "yellow",
@@ -55,8 +55,8 @@
         ]
       },
       {
-        "fullName": "Student6",
-        "imageUrl": "https://i.pinimg.com/originals/ce/07/48/ce0748db2eb7b4fea6f5130600e9bda6.jpg",
+        "fullName": "Nenad Nenadic",
+        "imageUrl": "http://lemon.hu/wp-content/uploads/2015/09/15-hungover-animals-who-have-no-regrets-funny-animal-photos1.jpg.pagespeed.ce_.TCmp4vQiAYgCwFRbL0E1.jpg",
         "evaluations": [
           {
             "colorCode": "red",
