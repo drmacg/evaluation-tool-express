@@ -2,6 +2,9 @@ const router = require('express').Router()
 const { User } = require('../models')
 const { Batch } = require('../models')
 const passport = require('../config/auth')
+const studentsRouter = require('./students')
+
+router.use('/batches/:batchId', studentsRouter)
 
 router.get('/batches', passport.authorize('jwt', { session: false }), (req, res, next) => {
   if (!req.account) {
